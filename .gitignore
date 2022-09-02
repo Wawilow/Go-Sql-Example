@@ -1,0 +1,8 @@
+sql
+.DS_Store
+.idea
+main.go
+config.go
+config_example.go
+test
+GoSql
